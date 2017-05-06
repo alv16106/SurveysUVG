@@ -1,0 +1,14 @@
+{
+	"Encuestas":[
+	{
+		"EncuestaId":"1",
+		"Nombre":"Test",
+		"Tipo":"5"
+	},
+	{
+		"EncuestaId":"1",
+		"Nombre":"Test",
+		"Tipo":"5"
+	}
+	]
+}
